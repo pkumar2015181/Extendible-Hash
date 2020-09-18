@@ -1,0 +1,197 @@
+Query 1: 50000 to 51000
+
+Calculated value of theta = 521
+Cost of Ex. Hash = 6600
+Cost of Sec. index = 526
+Cost of Naive = 1500
+Secondary memory based index algo will best method for range query between 50000 and 51000
+
+Search using Extendible hash index structure
+Total Found records = 521
+Total Files access = 1522
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 521
+Total Files access = 526
+
+Search using Naive Algorithm
+
+Total Found records = 521
+Total Files access = 1500
+
+Query 2: 50000 to 55000
+
+Calculated value of theta = 2556
+Cost of Ex. Hash = 32924
+Cost of Sec. index = 2571
+Cost of Naive = 1500
+Naive algo will best method for range query between 50000 and 55000
+
+Search using Extendible hash index structure
+Total Found records = 2556
+Total Files access = 7557
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 2556
+Total Files access = 2571
+
+Search using Naive Algorithm
+
+Total Found records = 2556
+Total Files access = 1500
+
+Query 3: 50000 to 60000
+
+Calculated value of theta = 5026
+Cost of Ex. Hash = 65756
+Cost of Sec. index = 5054
+Cost of Naive = 1500
+Naive algo will best method for range query between 50000 and 60000
+
+Search using Extendible hash index structure
+Total Found records = 5026
+Total Files access = 15027
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 5026
+Total Files access = 5054
+
+Search using Naive Algorithm
+
+Total Found records = 5026
+Total Files access = 1500
+
+Query 4: 50000 to 70000
+
+Calculated value of theta = 10098
+Cost of Ex. Hash = 131550
+Cost of Sec. index = 10151
+Cost of Naive = 1500
+Naive algo will best method for range query between 50000 and 70000
+
+Search using Extendible hash index structure
+Total Found records = 10098
+Total Files access = 30099
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 10098
+Total Files access = 10151
+
+Search using Naive Algorithm
+
+Total Found records = 10098
+Total Files access = 1500
+
+Query 5: 50000 to 90000
+
+Calculated value of theta = 20093
+Cost of Ex. Hash = 262991
+Cost of Sec. index = 20196
+Cost of Naive = 1500
+Naive algo will best method for range query between 50000 and 90000
+
+Search using Extendible hash index structure
+Total Found records = 20093
+Total Files access = 60094
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 20093
+Total Files access = 20196
+
+Search using Naive Algorithm
+
+Total Found records = 20093
+Total Files access = 1500
+
+Query 6: 100000 to 180000
+
+Calculated value of theta = 39955
+Cost of Ex. Hash = 525743
+Cost of Sec. index = 40157
+Cost of Naive = 1500
+Naive algo will best method for range query between 100000 and 180000
+
+Search using Extendible hash index structure
+Total Found records = 39956
+Total Files access = 179415
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 39956
+Total Files access = 40159
+
+Search using Naive Algorithm
+
+Total Found records = 39956
+Total Files access = 1500
+
+Query 7: 100000 to 260000
+
+Calculated value of theta = 80042
+Cost of Ex. Hash = 1051612
+Cost of Sec. index = 80445
+Cost of Naive = 1500
+Naive algo will best method for range query between 100000 and 260000
+
+Search using Extendible hash index structure
+Total Found records = 80043
+Total Files access = 525360
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 80043
+Total Files access = 80446
+
+Search using Naive Algorithm
+
+Total Found records = 80043
+Total Files access = 1500
+
+Query 8: 100000 to 300000
+
+Calculated value of theta = 100054
+Cost of Ex. Hash = 1314514
+Cost of Sec. index = 100557
+Cost of Naive = 1500
+Naive algo will best method for range query between 100000 and 300000
+
+Search using Extendible hash index structure
+Total Found records = 100055
+Total Files access = 760701
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 100055
+Total Files access = 100558
+
+Search using Naive Algorithm
+
+Total Found records = 100055
+Total Files access = 1500
+
+Query 9: 100000 to 350000
+
+Calculated value of theta = 124949
+Cost of Ex. Hash = 1643022
+Cost of Sec. index = 125576
+Cost of Naive = 1500
+Naive algo will best method for range query between 100000 and 350000
+
+Search using Extendible hash index structure
+Total Found records = 124950
+Total Files access = 1112525
+
+Search using Range Query of secondary memory index structure
+
+Total Found records = 124950
+Total Files access = 125577
+
+Search using Naive Algorithm
+
+Total Found records = 124950
+Total Files access = 1500
